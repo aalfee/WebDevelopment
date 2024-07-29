@@ -8,12 +8,15 @@ body {
 
 #Art {
   color: #FF0000;
+  align-content: left;
 }
 
 #Games {
   color: #7FFF80;
+  justify-content: right;
 }
 
 #Cook {
   color: #0000FF;
+  justify-content: center;
 }
